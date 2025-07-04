@@ -1,0 +1,18 @@
+# Ignoring data files
+data/
+
+# Ignoring model files
+models/
+
+# Ignoring logs
+logs/
+
+# Ignoring cache
+cache/  
+# ignoring .env file
+chatbot_env/
+
+# ignoring pycache
+__pycache__/
+
+
