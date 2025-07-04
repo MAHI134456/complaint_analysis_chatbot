@@ -1,10 +1,9 @@
-# Ignoring data files
+# Ignoring data files and all csv files
 data/
+*.csv
 
 # Ignoring model files
 models/
-
-# Ignoring logs
 logs/
 
 # Ignoring cache
